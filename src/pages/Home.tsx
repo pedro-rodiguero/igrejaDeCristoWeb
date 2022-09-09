@@ -13,7 +13,7 @@ export function Home() {
             </aside>
             <main className="main-content">
                 <div>
-                    <img src={backgroundImg} alt="Igreja de Cristo"/>
+                    <img src={ backgroundImg } alt="Igreja de Cristo"/>
                 </div>
             </main>
         </div>

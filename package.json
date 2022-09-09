@@ -44,6 +44,7 @@
   },
   "devDependencies": {
     "@types/react": "^18.0.18",
+    "eslint-config-google": "^0.14.0",
     "sass": "^1.54.8"
   }
 }
